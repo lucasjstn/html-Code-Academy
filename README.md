@@ -1,6 +1,6 @@
 # Projeto HTML Bonito
 
-![Imagem do Projeto](imagem_projeto.jpg)
+![Imagem do Projeto](./site.png)
 
 ## Descrição
 
